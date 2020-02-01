@@ -1,5 +1,5 @@
 {
-    "name": "mgargano/simplehtmldom",
+    "name": "bumperbox/simplehtmldom",
     "description": "Composer package that gives you access to and (unlike all the others at this time) autoloads S.C. Chen's PHP Simple HTML DOM Parser Library",
     "keywords": ["html", "dom", "simple"],
     "homepage" : "http://simplehtmldom.sourceforge.net/",
